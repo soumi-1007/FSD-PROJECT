@@ -1,7 +1,7 @@
 export const mockNotes = [
-  { id: 1, title: 'React Complete Guide', subject: 'Frontend', url: '#' },
-  { id: 2, title: 'Advanced CSS and Sass', subject: 'Design', url: '#' },
-  { id: 3, title: 'Node.js & MongoDB', subject: 'Backend', url: '#' }
+  { id: 1, title: 'React Complete Guide', subject: 'Frontend', url: 'data:text/plain;base64,UmVhY3QgQ29tcGxldGUgR3VpZGUgQ29udGVudDogSGVsbG8gUmVhY3Qh' },
+  { id: 2, title: 'Advanced CSS and Sass', subject: 'Design', url: 'data:text/plain;base64,QWR2YW5jZWQgQ1NTIENvbnRlbnQ6IE1hc3RlcmluZyBGbGV4Ym94IGFuZCBHcmlk' },
+  { id: 3, title: 'Node.js & MongoDB', subject: 'Backend', url: 'data:text/plain;base64,Tm9kZS5qcyBDb250ZW50OiBCdWlsZGluZyBSRVNUIEFQSXM=' }
 ];
 
 export const mockTests = [
